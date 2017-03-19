@@ -9,7 +9,7 @@ Attribute Information:
 For each record in the dataset it is provided:
 Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 Triaxial Angular velocity from the gyroscope.
-A 561 - feature vector with time and frequency domain variables
+	A 561 - feature vector with time and frequency domain variables
 Its activity label.
 An identifer of the subject who carried out the experiement.
 
@@ -21,7 +21,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Variable Descriptions
 Variable                      Description
-activities               The activity performed
+activities   	            The activity performed
 subject                      Subject ID
 tbodyacc-mean-x         Mean time for acceleration of body for X direction
 tbodyacc-mean-y         Mean time for acceleration of body for Y direction
