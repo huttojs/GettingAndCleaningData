@@ -1,4 +1,4 @@
-Code Book
+:Code Book
 
 Data Set Information:
 
@@ -20,11 +20,12 @@ Citation Request:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 Variable Descriptions
-Variable                      Description
+Variable                    Description
+
 activities   	            The activity performed
 subject                      Subject ID
-tbodyacc-mean-x         Mean time for acceleration of body for X direction
-tbodyacc-mean-y         Mean time for acceleration of body for Y direction
+tbodyacc-mean-x -----   Mean time for acceleration of body for X direction
+tbodyacc-mean-y ----    Mean time for acceleration of body for Y direction
 tbodyacc-mean-z         Mean time for acceleration of body for Z direction
 tbodyacc-std-x          Standard deviation of time for acceleration of body for X direction
 tbodyacc-std-y          Standard deviation of time for acceleration of body for Y direction
